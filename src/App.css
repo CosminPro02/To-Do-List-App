@@ -1,0 +1,17 @@
+.background-image {
+    background: linear-gradient(to bottom, rgba(155, 89, 182, 0.7), rgba(52, 152, 219, 0.7)), 
+                url(frozen.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    color: white;
+  }
+  html, body, #root {
+    height: 100%;
+    margin: 0;
+  }
+ 
