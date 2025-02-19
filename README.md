@@ -5,6 +5,7 @@ This is a simple To-Do List app that I built on my own to strengthen my understa
 🚀 Technologies Used
 React – for building the UI
 Tailwind CSS – for fast and flexible styling
+
 ✨ Features
 Add, delete, and mark tasks as completed
 Simple and clean UI
